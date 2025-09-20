@@ -6,9 +6,9 @@ import "./globals.css"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "WanderSafe",
+  description: "WanderSafe: Your Travel Companion for Safe and Informed Journeys",
+  generator: "hexagonplus",
 }
 
 const workSans = Work_Sans({
